@@ -1,5 +1,5 @@
 import pokePi from "../assets/projects/pokePi.png";
-import tresbien from "../assets/projects/tresbien.png";
+//import tresbien from "../assets/projects/tresbien.png";
 import muvhi from "../assets/projects/muvhi.png";
 import alarmHenry from "../assets/projects/alarmHenry.png";
 import cristaldeluna from "../assets/projects/cristaldeluna.png";
