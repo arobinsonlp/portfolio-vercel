@@ -18,7 +18,7 @@ const translations = {
     home4:
       "Si tienes curiosidad sobre quién soy y qué hago, has venido al lugar correcto.",
     home5:
-      "Haga clic en el botón de aquí abajo para obtener más información sobre mí, mis habilidades como desarrollador web y mi pasión por explorar nuevas fronteras.",
+      "Haga clic en el botón de aquí abajo para obtener más información sobre mí, mis habilidades como cloud engineer y mi pasión por explorar nuevas fronteras.",
     homeButton: "Ver más",
     aboutAbout: "Acerca de mí",
     aboutText1:
